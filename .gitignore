@@ -1,0 +1,15 @@
+# Raw and intermediate data are not committed: download them as each README explains.
+trawling/ices/raw/
+trawling/ices/store/
+trawling/ices/csquares.gpkg
+trawling/ices/beam/
+trawling/grids/
+trawling/bounds/jncc/
+trawling/bounds/mmo/
+trawling/bounds/ne/
+trawling/wind/
+trawling/data/
+trawling/results/*.pkl
+__pycache__/
+*.pyc
+.DS_Store
