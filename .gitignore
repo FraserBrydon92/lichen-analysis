@@ -13,3 +13,10 @@ trawling/results/*.pkl
 __pycache__/
 *.pyc
 .DS_Store
+
+# Salmon and fisheries-effort raw downloads (see each data/raw/README.md)
+*/data/raw/*
+!*/data/raw/README.md
+*.py[cod]
+.venv/
+.ipynb_checkpoints/

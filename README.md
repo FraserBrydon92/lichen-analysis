@@ -6,10 +6,17 @@ Every Lichen piece is built the same way: primary sources, original analysis, a 
 
 ## Investigations
 
-| Folder | Investigation | Status |
+| Folder | Investigation | What's included |
 |---|---|---|
-| [`trawling/`](trawling/) | Did the UK's offshore marine protected areas stop bottom trawling? An event study, wild cluster bootstrap and habitat-matched synthetic controls on ICES fishing data, 2009–2025. | Code, results and charts |
-| `salmon/` | Scotland's wild salmon decline, the farms, and how lice are measured. | To be added |
+| [`salmon/`](salmon/) | Scotland's wild salmon decline, salmon farming, sea lice and rod catch, 1952–2025 | Code, processed data and figures. Runs on a fresh clone with no downloads |
+| [`trawling/`](trawling/) | Did the UK's offshore marine protected areas stop bottom trawling? Event study, wild cluster bootstrap and habitat-matched synthetic controls on ICES fishing data, 2009–2025 | Code, derived results and charts. Raw ICES data must be downloaded |
+| [`fisheries-effort/`](fisheries-effort/) | How much of the global fishing fleet switches off its tracking, and what one year of trawling at Dogger Bank looks like | Code, derived tables and figures. Raw Global Fishing Watch data must be downloaded |
+
+## Headline findings
+
+- **Salmon: the weeks nobody counts are the weeks with the most lice.** About 17% of Scottish farm site-weeks have no sea lice count, and the gaps are not random: counts just before a harvest withdrawal sit well above each site's median, so the published national series runs low.
+- **Trawling: the bans cut trawling where they apply.** Trawling hours inside banned offshore sites fell by an estimated 88% relative to comparison waters (95% interval 48% to 97%). Most trawling inside protected areas happens where no ban has yet reached.
+- **Fishing effort: the count and the rate disagree.** The number of fishing vessels going dark for over 24 hours rose 29% between 2019 and 2023, but as a share of the observed fleet it was flat, then fell to 1.5%.
 
 ## What is and isn't here
 
