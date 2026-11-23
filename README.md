@@ -1,6 +1,6 @@
 # Lichen: data and analysis
 
-Code, derived data and charts behind [Lichen](https://SUBSTACK-ADDRESS), a newsletter of data-led investigations into nature, climate and the money behind them, written by Fraser Brydon.
+Code, derived data and charts behind [Lichen](https://substack.com/@fraserbrydon), a newsletter of data-led investigations into nature, climate and the money behind them, written by Fraser Brydon.
 
 Every Lichen piece is built the same way: primary sources, original analysis, a plain statement of what the data can't show, and corrections published in the piece itself. This repository holds the working for each investigation so that anyone can check it, rerun it or argue with it.
 
