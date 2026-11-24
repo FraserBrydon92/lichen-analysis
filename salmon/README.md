@@ -6,6 +6,8 @@ decline can be associated with salmon farming, and finds that the data Scotland
 publishes is not able to settle it — which turns out to be the more interesting
 result.
 
+For a plain-English summary of the findings, read the [Scottish Salmon Briefing](https://claude.ai/artifact/2FH4RHga3QieFZMPe9cmUN).
+
 ## Running it
 
 ```bash

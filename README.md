@@ -14,7 +14,7 @@ Every Lichen piece is built the same way: primary sources, original analysis, a 
 
 ## Headline findings
 
-- **Salmon: the weeks nobody counts are the weeks with the most lice.** About 17% of Scottish farm site-weeks have no sea lice count, and the gaps are not random: counts just before a harvest withdrawal sit well above each site's median, so the published national series runs low.
+- **Salmon: the weeks nobody counts are the weeks with the most lice.** About 17% of Scottish farm site-weeks have no sea lice count, and the gaps are not random: counts just before a harvest withdrawal sit well above each site's median, so the published national series runs low. Plain-English summary of the salmon findings: [Scottish Salmon Briefing](https://claude.ai/artifact/2FH4RHga3QieFZMPe9cmUN).
 - **Trawling: the bans cut trawling where they apply.** Trawling hours inside banned offshore sites fell by an estimated 88% relative to comparison waters (95% interval 48% to 97%). Most trawling inside protected areas happens where no ban has yet reached.
 - **Fishing effort: the count and the rate disagree.** The number of fishing vessels going dark for over 24 hours rose 29% between 2019 and 2023, but as a share of the observed fleet it was flat, then fell to 1.5%.
 
