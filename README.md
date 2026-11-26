@@ -1,3 +1,5 @@
+<img src="assets/brand/lichen-logo-lockup.svg" alt="Lichen" width="320">
+
 # Lichen: data and analysis
 
 Code, derived data and charts behind [Lichen](https://substack.com/@fraserbrydon), a newsletter of data-led investigations into nature, climate and the money behind them, written by Fraser Brydon.
