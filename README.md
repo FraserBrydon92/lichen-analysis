@@ -1,4 +1,4 @@
-<img src="assets/brand/lichen-logo-lockup.svg" alt="Lichen" width="320">
+<img src="assets/brand/lichen-logo-lockup.png" alt="Lichen" width="300">
 
 # Lichen: data and analysis
 
