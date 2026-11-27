@@ -20,3 +20,13 @@ __pycache__/
 *.py[cod]
 .venv/
 .ipynb_checkpoints/
+
+# Licensed data that must never be published or made downloadable
+# KBA polygons: World Database of Key Biodiversity Areas, licensed for non-commercial static maps only
+*KBA*
+*kba*
+**/kba/
+# Trase raw downloads: licensing set per dataset; publish results, not the raw files
+*trase*
+*Trase*
+**/trase/
